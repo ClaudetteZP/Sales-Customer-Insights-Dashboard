@@ -28,6 +28,5 @@ Python Scripts:
 
 Microsoft PowerBI Dashboard: 
 
-Author: Claudette Zapanta Penaredondo | 📧 claudettezp305@gmail.com
-
+Author: Claudette Zapanta Penaredondo 
 
