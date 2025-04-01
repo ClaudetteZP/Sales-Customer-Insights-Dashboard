@@ -8,10 +8,9 @@ It includes:
 * Microsoft Power BI: Visualizing Trends and KPIs.
 
 T-SQL Folder:
-* 01_create_database.sql - Creates the SalesDB database
-* 02_create_tables.sql - Defines tables for sales data
-* 03_data_cleaning.sql - Cleans missing or incorrect data
-* 04_analysis.queries.sql - Runs analytical queries
+* 01_create_database.sql - Creates the SalesDB database, and it includes the tables for sales data
+* 02_data_cleaning.sql - Cleans missing or incorrect data
+* 03_analysis.queries.sql - Runs analytical queries
 
 
 This project includes Python scripts for advanced analytics:
